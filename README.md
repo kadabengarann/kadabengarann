@@ -17,7 +17,7 @@ Here are som ideas to get you started:
     <img src="svg/bigPic.svg" width="420px"/>
 </p>
 
-<h2 align="center">Hello There 👋</h2>
+<h2 align="center">Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 <p align="center">My name is Ardhy Satrio and welcome to my github profile</p>
 
 <!-- - 🔭 I’m currently working on a ULM Faculty of Engineering's Accreditation Information System with Laravel -->
