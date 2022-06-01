@@ -17,7 +17,7 @@ Here are som ideas to get you started:
     <img src="svg/bigPic.svg" width="420px"/>
 </p>
 
-<h2 align="center">Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<h2 align="center">Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px"></h2>
 <p align="center">My name is Ardhy Satrio and welcome to my github profile</p>
 
 <!-- - 🔭 I’m currently working on a ULM Faculty of Engineering's Accreditation Information System with Laravel -->
@@ -57,52 +57,4 @@ Here are som ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    109 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.89% 
-🌆 Daytime    136 commits    █████░░░░░░░░░░░░░░░░░░░░   19.83% 
-🌃 Evening    289 commits    ██████████░░░░░░░░░░░░░░░   42.13% 
-🌙 Night      152 commits    █████░░░░░░░░░░░░░░░░░░░░   22.16%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Singapore
-
-💬 Programming Languages: 
-Kotlin                   26 hrs 45 mins      ██████████████░░░░░░░░░░░   59.1% 
-XML                      8 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.86% 
-Blade Template           4 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.44% 
-PHP                      1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.7% 
-CSS                      1 hr 24 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.11%
-
-🔥 Editors: 
-Android Studio           36 hrs 5 mins       ████████████████████░░░░░   79.68% 
-VS Code                  9 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   20.32%
-
-💻 Operating System: 
-Windows                  45 hrs 17 mins      █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               9 repos             ███████░░░░░░░░░░░░░░░░░░   31.03% 
-HTML                     6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.69% 
-PHP                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
-CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
-Blade                    3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.34%
-
-```
-
-
-
- Last Updated on 24/03/2022 18:45:08 UTC
 <!--END_SECTION:waka-->
