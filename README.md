@@ -17,7 +17,7 @@ Here are som ideas to get you started:
 
 <!-- - 🔭 I’m currently working on a ULM Faculty of Engineering's Accreditation Information System with Laravel -->
 - 🌱 I’m currently learning Next.js
-- 👯 I’m looking to collaborate on Front-End Web Projects
+- 💻 I’m looking to collaborate on Front-End Web Projects
 - 📫 How to reach me: ⬇⬇
 
 <div align="center">
