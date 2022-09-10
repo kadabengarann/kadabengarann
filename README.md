@@ -52,7 +52,7 @@ Here are som ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **I'm a Night 🦉** 
 
@@ -97,5 +97,5 @@ CSS                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 09/09/2022 18:48:52 UTC
+ Last Updated on 10/09/2022 18:47:01 UTC
 <!--END_SECTION:waka-->
