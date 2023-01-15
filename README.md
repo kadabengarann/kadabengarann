@@ -71,14 +71,13 @@ Here are som ideas to get you started:
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Groovy                   2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               ████████████████░░░░░░░░░   66.21% 
-Android Studio           0 secs              ████████░░░░░░░░░░░░░░░░░   33.79%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -95,5 +94,5 @@ CSS                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 14/01/2023 18:35:01 UTC
+ Last Updated on 15/01/2023 18:35:20 UTC
 <!--END_SECTION:waka-->
