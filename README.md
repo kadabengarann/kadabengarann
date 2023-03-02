@@ -70,17 +70,13 @@ Here are som ideas to get you started:
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Kotlin                   1 hr 20 mins        ████████████████████████░   97.30 % 
-XML                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-Gradle                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           1 hr 22 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 22 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -96,5 +92,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/03/2023 18:38:56 UTC
+ Last Updated on 02/03/2023 18:41:39 UTC
 <!--END_SECTION:waka-->
