@@ -52,7 +52,7 @@ Here are som ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm an Early 🐤** 
 
@@ -92,5 +92,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/03/2023 18:38:40 UTC
+ Last Updated on 08/03/2023 18:38:58 UTC
 <!--END_SECTION:waka-->
