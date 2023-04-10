@@ -70,13 +70,13 @@ Here are som ideas to get you started:
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Kotlin                   6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -92,5 +92,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/04/2023 18:35:13 UTC
+ Last Updated on 10/04/2023 18:35:21 UTC
 <!--END_SECTION:waka-->
