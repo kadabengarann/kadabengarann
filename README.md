@@ -70,17 +70,13 @@ Here are som ideas to get you started:
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Prolog                   2 mins              ████████████░░░░░░░░░░░░░   46.77 % 
-Kotlin                   1 min               █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
-Groovy                   1 min               ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
-Gradle                   0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-Shrinker Config File     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -96,5 +92,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/05/2023 18:34:53 UTC
+ Last Updated on 24/05/2023 18:34:44 UTC
 <!--END_SECTION:waka-->
