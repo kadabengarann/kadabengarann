@@ -70,13 +70,14 @@ Here are som ideas to get you started:
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Kotlin                   16 mins             █████████████████████████   99.61 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  16 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  16 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -92,5 +93,5 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/07/2023 18:37:57 UTC
+ Last Updated on 04/07/2023 18:40:19 UTC
 <!--END_SECTION:waka-->
