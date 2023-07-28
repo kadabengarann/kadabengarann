@@ -52,7 +52,7 @@ Here are som ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm a Night 🦉** 
 
@@ -95,5 +95,5 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2023 18:35:28 UTC
+ Last Updated on 28/07/2023 18:35:29 UTC
 <!--END_SECTION:waka-->
