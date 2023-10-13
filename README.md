@@ -70,14 +70,13 @@ Here are som ideas to get you started:
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Groovy                   11 mins             █████████████████████████   98.24 % 
-Kotlin                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -93,5 +92,5 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/10/2023 18:36:26 UTC
+ Last Updated on 13/10/2023 18:36:55 UTC
 <!--END_SECTION:waka-->
