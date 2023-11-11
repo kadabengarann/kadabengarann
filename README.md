@@ -70,13 +70,14 @@ Here are som ideas to get you started:
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     50 mins             █████████████████████████   98.55 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  51 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  51 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -92,5 +93,5 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/11/2023 18:35:17 UTC
+ Last Updated on 11/11/2023 18:34:11 UTC
 <!--END_SECTION:waka-->
