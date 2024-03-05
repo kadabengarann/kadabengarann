@@ -70,13 +70,13 @@ Here are som ideas to get you started:
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Dart                     4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -92,5 +92,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/03/2024 18:34:45 UTC
+ Last Updated on 05/03/2024 18:33:58 UTC
 <!--END_SECTION:waka-->
