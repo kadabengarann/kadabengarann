@@ -70,13 +70,16 @@ Here are som ideas to get you started:
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Text                     11 mins             █████████████████░░░░░░░░   67.05 % 
+Bash                     3 mins              █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
+HTML                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  17 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  17 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -92,5 +95,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/08/2024 18:40:35 UTC
+ Last Updated on 03/08/2024 18:39:07 UTC
 <!--END_SECTION:waka-->
