@@ -52,7 +52,7 @@ Here are som ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **I'm a Night 🦉** 
 
@@ -70,16 +70,13 @@ Here are som ideas to get you started:
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Text                     11 mins             █████████████████░░░░░░░░   67.05 % 
-Bash                     3 mins              █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
-HTML                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -95,5 +92,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/08/2024 18:41:00 UTC
+ Last Updated on 10/08/2024 18:39:08 UTC
 <!--END_SECTION:waka-->
