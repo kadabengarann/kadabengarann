@@ -54,31 +54,6 @@ Here are som ideas to get you started:
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1295 commits        █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
-🌆 Daytime                1740 commits        ███████░░░░░░░░░░░░░░░░░░   26.39 % 
-🌃 Evening                1853 commits        ███████░░░░░░░░░░░░░░░░░░   28.11 % 
-🌙 Night                  1705 commits        ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Singapore
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -92,5 +67,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2024 18:40:27 UTC
+ Last Updated on 08/09/2024 18:40:50 UTC
 <!--END_SECTION:waka-->
