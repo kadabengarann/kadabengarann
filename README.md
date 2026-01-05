@@ -52,7 +52,7 @@ Here are som ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -70,13 +70,17 @@ Here are som ideas to get you started:
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     1 hr 9 mins         ███████████████████░░░░░░   77.30 % 
+Python                   18 mins             █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 30 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 30 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -92,5 +96,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2026 18:52:04 UTC
+ Last Updated on 05/01/2026 18:57:31 UTC
 <!--END_SECTION:waka-->
