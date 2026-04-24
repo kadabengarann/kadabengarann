@@ -57,10 +57,10 @@ Here are som ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2593 commits        ██████░░░░░░░░░░░░░░░░░░░   25.47 % 
-🌆 Daytime                3269 commits        ████████░░░░░░░░░░░░░░░░░   32.11 % 
-🌃 Evening                2253 commits        ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
-🌙 Night                  2066 commits        █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
+🌞 Morning                2598 commits        ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
+🌆 Daytime                3274 commits        ████████░░░░░░░░░░░░░░░░░   32.12 % 
+🌃 Evening                2253 commits        ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
+🌙 Night                  2069 commits        █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
 ```
 
 
@@ -70,29 +70,32 @@ Here are som ideas to get you started:
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Markdown                 6 mins              ██████████████████████░░░   89.39 % 
-HTML                     0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-C#                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+TypeScript               27 mins             █████████████░░░░░░░░░░░░   53.24 % 
+Other                    12 mins             ██████░░░░░░░░░░░░░░░░░░░   24.66 % 
+Markdown                 10 mins             █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+C#                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.00 % 
+Unknown Editor           37 mins             ██████████████████░░░░░░░   73.96 % 
+VS Code                  13 mins             ███████░░░░░░░░░░░░░░░░░░   26.04 % 
 
 💻 Operating System: 
-Windows                  6 mins              █████████████████████████   100.00 % 
+Windows                  51 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               17 repos            ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
-Python                   15 repos            █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
-Dart                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+JavaScript               17 repos            ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
+Python                   15 repos            █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+HTML                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Dart                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 ```
 
 
 
 
- Last Updated on 23/04/2026 19:51:56 UTC
+ Last Updated on 24/04/2026 19:29:09 UTC
 <!--END_SECTION:waka-->
