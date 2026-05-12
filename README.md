@@ -70,31 +70,31 @@ Here are som ideas to get you started:
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-SQL                      4 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   38.86 % 
-CSV                      3 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   26.09 % 
-Python                   2 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   21.45 % 
-Other                    51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-Markdown                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+SQL                      5 hrs 1 min         ██████████░░░░░░░░░░░░░░░   39.97 % 
+CSV                      3 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   26.08 % 
+Python                   2 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
+Other                    53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+Markdown                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 37 mins      █████████████████████████   100.00 % 
+VS Code                  12 hrs 34 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  12 hrs 37 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               17 repos            ██████░░░░░░░░░░░░░░░░░░░   25.76 % 
-Python                   13 repos            █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
-Dart                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+JavaScript               17 repos            ██████░░░░░░░░░░░░░░░░░░░   25.37 % 
+Python                   14 repos            █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
+Dart                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 ```
 
 
 
 
- Last Updated on 11/05/2026 20:14:22 UTC
+ Last Updated on 12/05/2026 20:16:25 UTC
 <!--END_SECTION:waka-->
