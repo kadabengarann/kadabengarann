@@ -54,49 +54,18 @@ Here are som ideas to get you started:
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1906 commits        ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
-🌆 Daytime                2356 commits        ███████░░░░░░░░░░░░░░░░░░   28.76 % 
-🌃 Evening                2027 commits        ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
-🌙 Night                  1904 commits        ██████░░░░░░░░░░░░░░░░░░░   23.24 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Singapore
-
-💬 Programming Languages: 
-SQL                      2 hrs 3 mins        ███████████░░░░░░░░░░░░░░   45.58 % 
-YAML                     1 hr 5 mins         ██████░░░░░░░░░░░░░░░░░░░   24.12 % 
-Other                    32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-Python                   25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
-JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
-
-🔥 Editors: 
-VS Code                  4 hrs 24 mins       ████████████████████████░   97.68 % 
-Claude Code              6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-
-💻 Operating System: 
-Linux                    3 hrs 59 mins       ██████████████████████░░░   88.31 % 
-Windows                  31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               17 repos            ██████░░░░░░░░░░░░░░░░░░░   25.37 % 
-Python                   14 repos            █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
-Dart                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+JavaScript               17 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Python                   14 repos            █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
+Dart                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 ```
 
 
 
 
- Last Updated on 27/05/2026 20:35:09 UTC
+ Last Updated on 28/05/2026 20:45:10 UTC
 <!--END_SECTION:waka-->
