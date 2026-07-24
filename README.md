@@ -54,37 +54,6 @@ Here are som ideas to get you started:
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1918 commits        ██████░░░░░░░░░░░░░░░░░░░   23.27 % 
-🌆 Daytime                2393 commits        ███████░░░░░░░░░░░░░░░░░░   29.03 % 
-🌃 Evening                2027 commits        ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
-🌙 Night                  1904 commits        ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Singapore
-
-💬 Programming Languages: 
-Python                   15 hrs 39 mins      ████████████░░░░░░░░░░░░░   47.59 % 
-Markdown                 8 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   25.91 % 
-Other                    2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
-CSV                      1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-SQL                      1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
-
-🔥 Editors: 
-Claude Code              28 hrs 50 mins      ██████████████████████░░░   87.67 % 
-VS Code                  4 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-
-💻 Operating System: 
-Windows                  27 hrs 2 mins       █████████████████████░░░░   82.20 % 
-Linux                    5 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -98,5 +67,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/07/2026 19:57:00 UTC
+ Last Updated on 24/07/2026 19:57:03 UTC
 <!--END_SECTION:waka-->
