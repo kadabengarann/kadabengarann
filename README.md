@@ -70,19 +70,19 @@ Here are som ideas to get you started:
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   15 hrs 56 mins      ███████████░░░░░░░░░░░░░░   44.13 % 
-Markdown                 9 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   25.78 % 
-Other                    2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
-CSV                      1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-SQL                      1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+Python                   14 hrs 25 mins      ███████████░░░░░░░░░░░░░░   42.89 % 
+Markdown                 7 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   22.93 % 
+Other                    2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+SQL                      1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+Text                     1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
 
 🔥 Editors: 
-Claude Code              31 hrs 34 mins      ██████████████████████░░░   87.36 % 
-VS Code                  4 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
+Claude Code              29 hrs 1 min        ██████████████████████░░░   86.29 % 
+VS Code                  4 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
 
 💻 Operating System: 
-Windows                  27 hrs 19 mins      ███████████████████░░░░░░   75.59 % 
-Linux                    8 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
+Windows                  24 hrs 48 mins      ██████████████████░░░░░░░   73.78 % 
+Linux                    8 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   26.22 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -98,5 +98,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 19:43:24 UTC
+ Last Updated on 26/07/2026 19:45:27 UTC
 <!--END_SECTION:waka-->
