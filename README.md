@@ -52,6 +52,8 @@ Here are som ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-186%20hrs%2020%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **I'm an Early 🐤** 
@@ -70,43 +72,43 @@ Here are som ideas to get you started:
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   9 hrs 15 mins       ███████████░░░░░░░░░░░░░░   42.80 % 
-Markdown                 3 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
-Text                     2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-Other                    1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-YAML                     1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+Python                   7 hrs 46 mins       ██████████░░░░░░░░░░░░░░░   39.61 % 
+Markdown                 4 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
+Text                     1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+SQL                      1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+Other                    1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
 
 🔥 Editors: 
-Claude Code              17 hrs 28 mins      ████████████████████░░░░░   80.78 % 
-VS Code                  4 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
+Claude Code              15 hrs 54 mins      ████████████████████░░░░░   81.05 % 
+VS Code                  3 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
 
 💻 Operating System: 
-Windows                  17 hrs 9 mins       ████████████████████░░░░░   79.29 % 
-Linux                    4 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
+Windows                  16 hrs 28 mins      █████████████████████░░░░   83.99 % 
+Linux                    3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 44 mins (86.61%)
+⏱ AI Coding Time: 17 hrs 8 mins (87.34%)
 
-✍️ 5,024 lines written by AI, 20,380 lines written by hand (19.78% AI-written)
+✍️ 5,719 lines written by AI, 18,977 lines written by hand (23.16% AI-written)
 
-🔤 378,386,626 Input Tokens, 908,813 Output Tokens
+🔤 320,404,238 Input Tokens, 850,022 Output Tokens
 
-💵 $1198.99 Estimated AI Cost This Week
+💵 $1064.91 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 259 AI Prompts
+🧠 25 AI Sessions, 193 AI Prompts
 
-Sonnet                   3,628 lines         █████████████████░░░░░░░░   68.70 % 
-Opus                     1,653 lines         ████████░░░░░░░░░░░░░░░░░   31.30 % 
+Sonnet                   3,089 lines         █████████████░░░░░░░░░░░░   51.67 % 
+Opus                     2,889 lines         ████████████░░░░░░░░░░░░░   48.33 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 19.78% of written lines came from AI
-📝 Concise Prompter — average 312 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🔍 Hands-On Reviewer — 84.63% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 23.16% of written lines came from AI
+📄 Detailed Prompter — average 503 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🔍 Hands-On Reviewer — 81.03% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -122,5 +124,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 20:02:31 UTC
+ Last Updated on 29/07/2026 19:53:27 UTC
 <!--END_SECTION:waka-->
