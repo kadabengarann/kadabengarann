@@ -56,6 +56,60 @@ Here are som ideas to get you started:
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1918 commits        ██████░░░░░░░░░░░░░░░░░░░   23.27 % 
+🌆 Daytime                2393 commits        ███████░░░░░░░░░░░░░░░░░░   29.03 % 
+🌃 Evening                2027 commits        ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
+🌙 Night                  1904 commits        ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Singapore
+
+💬 Programming Languages: 
+Python                   4 hrs 33 mins       ████████████████░░░░░░░░░   63.23 % 
+Other                    58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+Markdown                 57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+Text                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+CSV                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+
+🔥 Editors: 
+Claude Code              3 hrs 56 mins       ██████████████░░░░░░░░░░░   54.68 % 
+VS Code                  3 hrs 16 mins       ███████████░░░░░░░░░░░░░░   45.32 % 
+
+💻 Operating System: 
+Windows                  6 hrs 23 mins       ██████████████████████░░░   88.67 % 
+Linux                    49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 4 hrs 10 mins (57.83%)
+
+✍️ 2,095 lines written by AI, 286,262 lines written by hand (0.73% AI-written)
+
+🔤 77,385,393 Input Tokens, 184,131 Output Tokens
+
+💵 $391.35 Estimated AI Cost This Week
+
+🧠 7 AI Sessions, 69 AI Prompts
+
+Opus                     2,098 lines         █████████████████████████   100.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.73% of written lines came from AI
+📝 Concise Prompter — average 217 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🔍 Hands-On Reviewer — 99.59% of changed lines were hand-edited
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -69,5 +123,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 19:29:13 UTC
+ Last Updated on 08/08/2026 19:10:00 UTC
 <!--END_SECTION:waka-->
