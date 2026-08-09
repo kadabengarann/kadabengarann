@@ -72,42 +72,38 @@ Here are som ideas to get you started:
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   4 hrs 33 mins       ████████████████░░░░░░░░░   63.23 % 
-Other                    58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-Markdown                 57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-Text                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
-CSV                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+Other                    23 mins             ████████████████████░░░░░   80.90 % 
+Markdown                 5 mins              █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 56 mins       ██████████████░░░░░░░░░░░   54.68 % 
-VS Code                  3 hrs 16 mins       ███████████░░░░░░░░░░░░░░   45.32 % 
+Claude Code              28 mins             ████████████████████████░   97.46 % 
+VS Code                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
 
 💻 Operating System: 
-Windows                  6 hrs 23 mins       ██████████████████████░░░   88.67 % 
-Linux                    49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+Linux                    23 mins             ████████████████████░░░░░   80.90 % 
+Windows                  5 mins              █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 10 mins (57.83%)
+⏱ AI Coding Time: 28 mins (100.0%)
 
-✍️ 2,095 lines written by AI, 286,262 lines written by hand (0.73% AI-written)
+✍️ 204 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 77,385,393 Input Tokens, 184,131 Output Tokens
+🔤 14,269,261 Input Tokens, 21,046 Output Tokens
 
-💵 $391.35 Estimated AI Cost This Week
+💵 $71.87 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 69 AI Prompts
+🧠 2 AI Sessions, 5 AI Prompts
 
-Opus                     2,098 lines         █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     204 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.73% of written lines came from AI
-📝 Concise Prompter — average 217 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🔍 Hands-On Reviewer — 99.59% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 106 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -123,5 +119,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/08/2026 19:10:00 UTC
+ Last Updated on 09/08/2026 19:12:15 UTC
 <!--END_SECTION:waka-->
